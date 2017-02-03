@@ -26,3 +26,6 @@ a {
       background-size: cover;
       color: white;
     }
+img {
+ margin: 0 auto;
+}
