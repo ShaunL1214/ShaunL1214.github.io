@@ -1,29 +1,39 @@
-body {
-	background: rgb(14,115,154);
-}
-   ul {
+ header {
+      text-align: center;
+      background: url('https://lh3.google.com/u/1/d/0Bw0f1OWb9DP1S0ZPVE1jTzRZS00=w1600-h746-iv1');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
-      color: rgb(177,208,223);
-}
-p {
-     color: rgb(177,208,223)
-}
-li {
-     color: rgb(177,208,223)
-}
-a {
-     color: rgb(177,208,223)
-}
- article {
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
     }
- header {
-      text-align: center;
-      background: url('http://www.planwallpaper.com/static/images/6935544-blue-backgrounds-hd.jpg');
-      background-size: cover;
-      color: white;
-    }
-4
+    @media (max-width: 500 {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
