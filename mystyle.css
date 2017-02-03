@@ -20,11 +20,13 @@ a {
       padding: 20px;
       margin: 0 auto;
     }
- header {
+  header {
       text-align: center;
-      background: url('https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/300px-Flag_of_the_United_States.svg.png');
+      background: url('http://www.planwallpaper.com/static/images/6935544-blue-backgrounds-hd.jpg');
       background-size: cover;
       color: white;
+    }
+
     }
  img {
       margin: 40px 0px 0px 0px;
