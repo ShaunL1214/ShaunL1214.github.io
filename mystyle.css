@@ -1,14 +1,7 @@
 body {
 	background: rgb(236,26,26);
 }
-   ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
-      color: rgb(177,208,223);
-}
- li {
-     color: rgb(177,208,223)
-}
+  
 p {
      color: rgb(255,255,255)
 }
