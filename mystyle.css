@@ -9,6 +9,7 @@ header {
     }
     h1 {
       font-size: 70px;
+          font-family:"Impact, Charcoal, sans-serif";
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -18,6 +19,7 @@ header {
     ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
+           display: inline;
     }
     li {
       display: inline;
@@ -28,13 +30,8 @@ header {
       padding: 20px;
       margin: 0 auto;
     }
-    @media (max-width: 500 {
-      h1 {
-        font-size: 36px;
-        padding: 5px;
-      }
-      li {
-        padding: 5px;
-        display: block;
-      }
-    }
+
+   
+body{
+background: rgb(231,231,231)
+}
