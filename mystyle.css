@@ -26,4 +26,6 @@ a {
       background-size: cover;
       color: white;
     }
-
+img {
+	text-align:center;
+}
